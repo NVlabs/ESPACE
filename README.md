@@ -1,4 +1,4 @@
-# ESPACE: Estimating Static Principal Activation Components Empirically
+# ESPACE: Eigen Static Principal Activation Components Estimation
 
 This repo contains the routines associated with the work that was published at NeurIPS 2024 called ESAPCE: Dimensionality Reduction of Activations for Model Compression. The paper can be found [here](https://openreview.net/forum?id=HAcaANQNMK).
 
